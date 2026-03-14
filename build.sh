@@ -533,6 +533,7 @@ function build_archiso ()
             exit 3
         fi
     fi
+	}
 }
 
 ####
